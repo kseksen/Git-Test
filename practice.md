@@ -32,14 +32,20 @@
 
 **Оформление Markdown файлов:**
 
-1. "#" - 
-2. "##" - 
-3. "###" - 
-4. "*text*" - 
-5. "**text**" - 
-6. "***text***" - 
-7. "˜˜text˜˜" 
+1. "#" - Заголовок первого уровня. 
+2. "##" - Заголовок второго уровня. 
+3. "###" - Заголовок третьего уровня.
+4. "* *text* *" - Курсив.
+5. "** **text** **" - Жирный текст.
+6. "* ***text*** *" - Жирный курсив. 
+7. "~~ ~~text~~ ~~" - Зачеркнутый текст.
 
 ## Вспомогательная Информация
+
+[Git для новичков (часть 1)](https://habr.com/ru/articles/541258/)
+
+[Git для новичков (часть 2)](https://habr.com/ru/articles/541258/)
+
+[Базовый синтакс записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Lesson 2
