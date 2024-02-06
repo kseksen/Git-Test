@@ -1,9 +1,28 @@
 # Git Manual 
 
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png "a title")
+![Alt text](https://www.20i.com/blog/wp-content/uploads/2022/08/git-blog-header.png "a title")
 
 ## Lesson 1 
 Git - программа для контроля версий, позволяущая сохроняет разницу между файлами. 
+
+**Создание и использование репозитория:**
+
+Для начала работы в программе git, необходимо создать Новый файл, указать размер файла и его названии и 
+
+- "git init" - запуск работы установленной версии git.
+
+- "git add < file name >" - 
+
+- "git status" - 
+
+- "git commin -m "comment" " - 
+
+- "git log" - 
+
+- git checkout [version number] - команда позволяет перемещаться с одной версии на другую. Необходимо ввести первые четыри символа названия желаемой версии. 
+
+- q - 
+
 
 ## ***Синтакс языка Markdown***
 
