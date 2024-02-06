@@ -44,8 +44,10 @@
 
 [Git для новичков (часть 1)](https://habr.com/ru/articles/541258/)
 
-[Git для новичков (часть 2)](https://habr.com/ru/articles/541258/)
+[Git для новичков (часть 2)](https://habr.com/ru/articles/542616/)
 
 [Базовый синтакс записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+
+git status - команда по вызову блок информации по состоянию репозитория. 
 ## Lesson 2
