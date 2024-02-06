@@ -48,6 +48,6 @@
 
 [Базовый синтакс записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-
+git init - initialising git
 git status - команда по вызову блок информации по состоянию репозитория. 
 ## Lesson 2
