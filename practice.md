@@ -1,5 +1,7 @@
 # Git Manual 
 
+Ксения
+
 ![Alt text](https://www.20i.com/blog/wp-content/uploads/2022/08/git-blog-header.png "a title")
 
 ## Lesson 1 
