@@ -62,6 +62,6 @@ git branch - выводит ветки
 - :wq - for write and quit 
 - pressed enter
 
-
+By Ksenia Viller.
 
 GitHub
