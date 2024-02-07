@@ -47,6 +47,6 @@
 [Git для новичков (часть 2)](https://habr.com/ru/articles/542616/)
 
 [Базовый синтакс записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+git init - инициализация гита
 git status - командаЮ вызыв.блок инф. по состоян. реп.
 ## Lesson 2
