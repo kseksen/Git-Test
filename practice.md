@@ -52,4 +52,12 @@ git status - командаЮ вызыв.блок инф. по состоян. �
 ## Lesson 2
 git branch - выводит ветки
 
-git branch name - создание ветки
+**git branch name - создание ветки**
+
+Для разрешения конфликта про сливании ветки Second я сделала следующие:
+
+- i - for insert
+- wrote merge message "git ftm-merge-msg --into-name < branch >"
+- esc - for escape
+- :wq - for write and quit 
+- pressed enter
