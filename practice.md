@@ -48,5 +48,5 @@
 
 [Базовый синтакс записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-it status - командаЮ вызыв.блок инф. по состоян. реп.
+git status - командаЮ вызыв.блок инф. по состоян. реп.
 ## Lesson 2
