@@ -56,7 +56,7 @@ git branch - выводит ветки
 
 **git branch name - создание ветки**
 
-Для разрешения конфликта про сливании ветки Second я сделала следующие:
+Для разрешения конфликта про сливании ветки Second я сделала следующие действия:
 
 - i - for insert
 - wrote merge message "git ftm-merge-msg --into-name < branch >"
@@ -64,6 +64,11 @@ git branch - выводит ветки
 - :wq - for write and quit 
 - pressed enter
 
+
+
 By Ksenia Viller.
 
 GitHub
+
+## Работе с удаленными репозиториями.
+
